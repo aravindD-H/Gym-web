@@ -1,0 +1,18 @@
+.h10{
+    font-size: 70px;
+    font-family: 'Copperplate', Papyrus, fantasy;
+}
+
+.h11{
+    font-size: 40px;
+    font-weight: lighter;
+}
+
+.imga{
+    height: 100px;
+    width: 120px;
+    padding-bottom: 8px;
+    gap: 20px;
+    
+}
+
